@@ -1,4 +1,4 @@
-# Exercicios_Analise_de_Dados
+# Exercícios_Análise_de_Dados
 Exercícios envolvendo análise de dados e ciência de dados realizados através do bootcamp - "Geração Tech Unimed-BH - Ciência de Dados" da DIO
 
 1. Exercício de análise exploratória de uma rede de lojas, análise de vendas, custos, lucro, marcas, produtos vendidos e tempo de envio.
