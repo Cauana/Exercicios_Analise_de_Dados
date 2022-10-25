@@ -1,6 +1,13 @@
-Exercícios de Análise de Dados
+<br id="topo">
+<h1> Exercícios de Análise de Dados
+   </h1>
+   
+   <br/>
+<h3> Repositório contendo meus exercícios de análise de dados e ciência de dados.
+ </h3>
+  <br/>
 
-Exercícios envolvendo análise de dados e ciência de dados realizados através do bootcamp - "Geração Tech Unimed-BH - Ciência de Dados" da DIO
+Exercícios 1 e 2 realizados através do bootcamp - "Geração Tech Unimed-BH - Ciência de Dados" da DIO:
 
 1. Exercício de análise exploratória de uma rede de lojas, análise de vendas, custos, lucro, marcas, produtos vendidos e tempo de envio.
 
